@@ -9,10 +9,9 @@ core = 7.x
 projects[drupal][type] = core
 projects[drupal][version] = "7.14"
 
-; Add UC Merced profile to the full distribution build.
-projects[campuscms_profile][type] = profile
-projects[campuscms_profile][version] = 1.x-dev
-projects[campuscms_profile][download][type] = git
-projects[campuscms_profile][download][url] = git://github.com/gsbitse/gsb-public.git
-projects[campuscms_profile][download][branch] = master
-
+; Add GSB Public profile to the full distribution build.
+projects[gsb_public][type] = profile
+projects[gsb_public][version] = 1.x-dev
+projects[gsb_public][download][type] = git
+projects[gsb_public][download][url] = git://github.com/gsbitse/gsb-public.git
+projects[gsb_public][download][branch] = master
