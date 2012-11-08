@@ -1,4 +1,4 @@
-; Use this file to build a full distribution including...
+`; Use this file to build a full distribution including...
 ; Drupal core and the Panopoly profile using the following command:
 ;
 ; drush make gsb-panopoly-distro.make <target directory>
@@ -16,11 +16,11 @@ projects[panopoly][download][type] = git
 projects[panopoly][download][url] = http://git.drupal.org/project/panopoly.git
 projects[panopoly][download][tag] = 7.x-1.0-rc2
 
-; Patch to remove panopoly demo - https://gist.github.com/4033560
-projects[panopoly][patch][remove-panopoly-demo] = https://raw.github.com/gist/4033560
+; Patch to remove panopoly demo module from being enabled.
+projects[panopoly][patch][remove-panopoly-demo] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/panopoly--remove-panopoly-demo.patch
 
 ; Patch to add in the gsb_panopoly module
-projects[panopoly][patch][gsb-panopoly] = https://raw.github.com/gist/4040953
+projects[panopoly][patch][add-gsb-module] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/panopoly--add-gsb-module.patch
 
 
 
