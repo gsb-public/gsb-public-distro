@@ -16,6 +16,11 @@ projects[panopoly][download][type] = git
 projects[panopoly][download][url] = http://git.drupal.org/project/panopoly.git
 projects[panopoly][download][tag] = 7.x-1.0-rc2
 
+projects[gsb_panopoly][type] = module
+projects[gsb_panopoly][download][type] = git
+projects[gsb_panopoly][download][url] = https://github.com/gsbitse/gsb-panopoly-profile.git
+projects[gsb_panopoly][download][tag] = master
+
 ; Patch to add in the gsb_panopoly module
 projects[panopoly][patch][add-gsb-module] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/panopoly--add-gsb-module.patch
 
