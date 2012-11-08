@@ -20,7 +20,9 @@ projects[panopoly][download][tag] = 7.x-1.0-rc2
 projects[panopoly][patch][remove-panopoly-demo] = https://raw.github.com/gist/4033560/33214b8c717bab968e52fa78914677ba69cab7a6/remove-panopoly-demo.patch
 
 ; Patch to add in the gsb_panopoly module
-projects[panopoly][patch][gsb-panopoly] = https://raw.github.com/gist/4040953/347565276027bb9fa93c3d49dcb67ec5cfe01145/gsb-panopoly
+projects[panopoly][patch][gsb-panopoly] = https://raw.github.com/gist/4040953/b542f5ade7afe06f0b18e2334b34044d6aa1c009/gsb-panopoly.patch
+
+
 
 
 
