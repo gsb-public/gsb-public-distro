@@ -16,18 +16,9 @@ projects[panopoly][download][type] = git
 projects[panopoly][download][url] = http://git.drupal.org/project/panopoly.git
 projects[panopoly][download][tag] = 7.x-1.0-rc2
 
-; Patch to remove panopoly demo module from being enabled.
-projects[panopoly][patch][remove-panopoly-demo] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/panopoly--remove-panopoly-demo.patch
-
 ; Patch to add in the gsb_panopoly module
 projects[panopoly][patch][add-gsb-module] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/panopoly--add-gsb-module.patch
 
-
-
-
-
-
-
-
-
+; Patch to remove panopoly demo module from being enabled.
+projects[panopoly][patch][remove-panopoly-demo] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/panopoly--remove-panopoly-demo.patch
 
