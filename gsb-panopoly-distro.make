@@ -18,7 +18,7 @@ projects[panopoly][download][tag] = 7.x-1.0-rc2
 
 projects[gsb_panopoly][type] = module
 projects[gsb_panopoly][download][type] = git
-projects[gsb_panopoly][download][url] = https://github.com/gsbitse/gsb-panopoly-profile.git
+projects[gsb_panopoly][download][url] = https://github.com/gsbitse/gsb_panopoly.git
 projects[gsb_panopoly][download][branch] = master
 
 ; Patch to add in the gsb_panopoly module
