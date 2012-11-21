@@ -10,7 +10,7 @@ projects[drupal][type] = core
 projects[drupal][version] = "7.17"
 
 ; Add Panopoly Profile
-projects[gsb_panopoly][type] = profile
-projects[gsb_panopoly][download][type] = git
-projects[gsb_panopoly][download][url] = https://github.com/gsbitse/gsb_panopoly.git
-projects[gsb_panopoly][download][branch] = master
+projects[gsb_public][type] = profile
+projects[gsb_public][download][type] = git
+projects[gsb_public][download][url] = https://github.com/gsbitse/gsb_public.git
+projects[gsb_public][download][branch] = master
