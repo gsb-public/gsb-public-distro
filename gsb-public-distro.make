@@ -7,7 +7,7 @@ api = 2
 core = 7.x
 
 projects[drupal][type] = core
-projects[drupal][version] = "7.18"
+projects[drupal][version] = "7.19"
 
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
