@@ -10,6 +10,7 @@ projects[drupal][type] = core
 projects[drupal][version] = "7.22"
 ; This fixes multiple upload fields in gsb_media_center. http://drupal.org/node/1620030
 projects[drupal][patch][1620030] = http://drupal.org/files/1620030-d7-2.patch
+projects[drupal][patch][1702132] = http://drupal.org/files/drupal-7.14-ajax-showeffect-not-function-1702132.patch
 
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
