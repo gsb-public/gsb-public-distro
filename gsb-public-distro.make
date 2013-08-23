@@ -12,7 +12,7 @@ projects[drupal][version] = "7.22"
 projects[drupal][patch][1620030] = http://drupal.org/files/1620030-d7-2.patch
 projects[drupal][patch][1702132] = http://drupal.org/files/drupal-7.14-ajax-showeffect-not-function-1702132.patch
 
-; Add GSB Public Profile
+; Add GSB Public Profile tagtest
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = https://github.com/gsbitse/gsb_public.git
