@@ -16,4 +16,4 @@ projects[drupal][patch][1702132] = http://drupal.org/files/drupal-7.14-ajax-show
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = https://github.com/gsbitse/gsb_public.git
-projects[gsb_public][download][tag] = 1.1
+projects[gsb_public][download][branch] = no-panopoly
