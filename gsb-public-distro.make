@@ -17,4 +17,4 @@ projects[drupal][patch][1783278] = https://drupal.org/files/schema-relative-1783
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = https://github.com/gsbitse/gsb_public.git
-projects[gsb_public][download][tag] = 1.2
+projects[gsb_public][download][branch] = WP-2040
