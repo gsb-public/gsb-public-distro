@@ -19,4 +19,4 @@ projects[drupal][patch][remote_fonts] = https://raw.github.com/gsbitse/gsb-revam
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = https://github.com/gsbitse/gsb_public.git
-projects[gsb_public][download][branch] = release-2.2
+projects[gsb_public][download][tag] = 2.2
