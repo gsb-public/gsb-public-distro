@@ -7,10 +7,7 @@ api = 2
 core = 7.x
 
 projects[drupal][type] = core
-projects[drupal][download][type] = git
-projects[drupal][download][url] = http://git.drupal.org/project/drupal.git
-projects[drupal][download][tag] = 7.23
-;projects[drupal][version] = "7.23"
+projects[drupal][version] = "7.23"
 
 ; This fixes multiple upload fields in gsb_media_center. http://drupal.org/node/1620030
 projects[drupal][patch][1620030] = http://drupal.org/files/1620030-d7-2.patch
