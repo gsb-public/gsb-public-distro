@@ -16,6 +16,7 @@ projects[drupal][patch][1783278] = https://drupal.org/files/schema-relative-1783
 projects[drupal][patch][1232416] = https://drupal.org/files/issues/autocomplete-1232416-17-7x.patch
 projects[drupal][patch][remote_fonts] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/remote_fonts.patch
 projects[drupal][patch][library-links-htaccess] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/library-links-htaccess.patch
+projects[drupal][patch][2106129] = https://drupal.org/files/issues/drupal_valid_path_cleanup-7-2106129-4.patch
 
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
