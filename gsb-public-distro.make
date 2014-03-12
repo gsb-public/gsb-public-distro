@@ -23,4 +23,4 @@ projects[drupal][patch][1811100] = https://drupal.org/files/issues/file-field-aj
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = https://github.com/gsbitse/gsb_public.git
-projects[gsb_public][download][branch] = release-3.5
+projects[gsb_public][download][tag] = 3.5
