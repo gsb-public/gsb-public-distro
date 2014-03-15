@@ -19,6 +19,7 @@ projects[drupal][patch][library-links-htaccess] = https://raw.github.com/gsbitse
 projects[drupal][patch][2106129] = https://drupal.org/files/issues/drupal_valid_path_cleanup-7-2106129-4.patch
 projects[drupal][patch][1811100] = https://drupal.org/files/issues/file-field-ajax-1811100-9-D7-do-not-test.patch
 projects[drupal][patch][robots-disallow] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/robots-disallow.patch
+projects[drupal][patch][customize-robots] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/customize-robots.patch
 
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
