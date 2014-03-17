@@ -25,4 +25,4 @@ projects[drupal][patch][customize-robots] = https://raw.github.com/gsbitse/gsb-r
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = https://github.com/gsbitse/gsb_public.git
-projects[gsb_public][download][branch] = release-3.6
+projects[gsb_public][download][branch] = WP-3013
