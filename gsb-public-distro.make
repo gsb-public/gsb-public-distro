@@ -25,5 +25,5 @@ projects[drupal][patch][field-labels] = https://drupal.org/files/issues/field-98
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
-projects[gsb_public][download][url] = https://github.com/gsbitse/gsb_public.git
+projects[gsb_public][download][url] = git@github.com:gsbitse/gsb_public.git
 projects[gsb_public][download][branch] = release-3.8
