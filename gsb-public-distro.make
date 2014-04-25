@@ -27,4 +27,4 @@ projects[drupal][patch][2215857] = https://drupal.org/files/issues/drupal-7-ajax
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = git@github.com:gsbitse/gsb_public.git
-projects[gsb_public][download][branch] = release-3.8
+projects[gsb_public][download][tag] = 3.8
