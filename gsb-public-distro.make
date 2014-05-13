@@ -21,6 +21,7 @@ projects[drupal][patch][1811100] = https://drupal.org/files/issues/file-field-aj
 projects[drupal][patch][robots-disallow] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/robots-disallow.patch
 projects[drupal][patch][customize-robots] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/customize-robots.patch
 projects[drupal][patch][field-labels] = https://drupal.org/files/issues/field-980144-51-D7-do-not-test.patch
+projects[drupal][patch][2215857] = https://drupal.org/files/issues/ajax-form-2215857-3-D7-do-not-test.patch
 
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
