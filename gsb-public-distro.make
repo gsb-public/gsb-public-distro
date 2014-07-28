@@ -27,4 +27,4 @@ projects[drupal][patch][1919338] = https://www.drupal.org/files/issues/options_d
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = git@github.com:gsbitse/gsb_public.git
-projects[gsb_public][download][branch] = release-3.15
+projects[gsb_public][download][tag] = 3.15
