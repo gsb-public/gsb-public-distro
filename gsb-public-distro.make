@@ -22,6 +22,7 @@ projects[drupal][patch][customize-robots] = https://raw.github.com/gsbitse/gsb-r
 projects[drupal][patch][field-labels] = https://drupal.org/files/issues/field-980144-51-D7-do-not-test.patch
 projects[drupal][patch][2215857] = https://drupal.org/files/issues/ajax-form-2215857-3-D7-do-not-test.patch
 projects[drupal][patch][1919338] = https://www.drupal.org/files/issues/options_drupal7-1919338-58.patch
+projects[drupal][patch][2313539] = https://www.drupal.org/files/issues/2313539-allow-cache-bust-theme-image-1.patch
 
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
