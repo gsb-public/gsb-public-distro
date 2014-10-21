@@ -26,5 +26,5 @@ projects[drupal][patch][2313539] = https://www.drupal.org/files/issues/2313539-a
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
-projects[gsb_public][download][url] = git@github.com:gsbitse/gsb_public.git
+projects[gsb_public][download][url] = git@github.com:gsb-public/gsb_public.git
 projects[gsb_public][download][branch] = release-4.05
