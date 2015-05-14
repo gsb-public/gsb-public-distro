@@ -10,7 +10,7 @@ projects[drupal][type] = core
 projects[drupal][version] = "7.37"
 
 ; This fixes multiple upload fields in gsb_media_center. http://drupal.org/node/1620030
-projects[drupal][patch][1620030] = http://drupal.org/files/1620030-d7-3.patch
+projects[drupal][patch][1620030] = http://drupal.org/files/issues/`1620030-d7-3.patch
 projects[drupal][patch][1702132] = http://drupal.org/files/drupal-7.14-ajax-showeffect-not-function-1702132.patch
 projects[drupal][patch][1783278] = https://drupal.org/files/issues/schema-relative-1783278-17-D7-do-not-test.patch
 projects[drupal][patch][1232416] = https://drupal.org/files/issues/autocomplete-1232416-17-7x.patch
