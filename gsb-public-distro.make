@@ -13,7 +13,6 @@ projects[drupal][version] = "7.51"
 projects[drupal][patch][1620030] = http://drupal.org/files/issues/1620030-d7-3.patch
 projects[drupal][patch][1702132] = http://drupal.org/files/drupal-7.14-ajax-showeffect-not-function-1702132.patch
 projects[drupal][patch][1783278] = https://drupal.org/files/issues/schema-relative-1783278-17-D7-do-not-test.patch
-projects[drupal][patch][1232416] = https://www.drupal.org/files/issues/autocomplete-1232416-205-7x.patch
 projects[drupal][patch][remote_fonts] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/remote_fonts.patch
 projects[drupal][patch][gsb-htaccess-rewrites] = https://raw.githubusercontent.com/gsb-public/gsb-revamp-patches/master/gsb-htaccess-rewrites.patch
 projects[drupal][patch][1811100] = https://www.drupal.org/files/issues/file_field_ajax_wrapper-1811100-29-D7-do-not-test.patch
