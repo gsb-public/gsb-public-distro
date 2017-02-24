@@ -25,4 +25,4 @@ projects[drupal][patch][2313539] = https://www.drupal.org/files/issues/2313539-a
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = git@github.com:gsb-public/gsb_public.git
-projects[gsb_public][download][tag] = 6.30
+projects[gsb_public][download][branch] = release-6.31
