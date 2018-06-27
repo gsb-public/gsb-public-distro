@@ -21,6 +21,7 @@ projects[drupal][patch][field-labels] = https://drupal.org/files/issues/field-98
 projects[drupal][patch][2215857] = https://www.drupal.org/files/issues/ajax-form-2215857-8-D7-do-not-test.patch
 projects[drupal][patch][2313539] = https://www.drupal.org/files/issues/2313539-allow-cache-bust-theme-image-1.patch
 projects[drupal][patch][image] = https://raw.githubusercontent.com/gsb-public/gsb-revamp-patches/master/image-7.56.patch
+projects[drupal][patch][2908543] = https://www.drupal.org/files/issues/drupal-tabledrag-broken-2908543-11.patch
 
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
