@@ -27,4 +27,4 @@ projects[drupal][patch][2908543] = https://www.drupal.org/files/issues/drupal-ta
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = git@github.com:gsb-public/gsb_public.git
-projects[gsb_public][download][branch] = release-6.56.3
+projects[gsb_public][download][tag] = 6.56.3
