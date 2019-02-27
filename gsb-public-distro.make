@@ -7,7 +7,7 @@ api = 2
 core = 7.x
 
 projects[drupal][type] = core
-projects[drupal][version] = "7.61"
+projects[drupal][version] = "7.64"
 
 ; This fixes multiple upload fields in gsb_media_center. http://drupal.org/node/1620030
 projects[drupal][patch][1620030] = http://drupal.org/files/issues/1620030-d7-3.patch
@@ -21,7 +21,6 @@ projects[drupal][patch][field-labels] = https://drupal.org/files/issues/field-98
 projects[drupal][patch][2215857] = https://www.drupal.org/files/issues/ajax-form-2215857-8-D7-do-not-test.patch
 projects[drupal][patch][2313539] = https://www.drupal.org/files/issues/2313539-allow-cache-bust-theme-image-1.patch
 projects[drupal][patch][image] = https://raw.githubusercontent.com/gsb-public/gsb-revamp-patches/master/image-7.56.patch
-projects[drupal][patch][3018637] = https://www.drupal.org/files/issues/2018-12-07/remove_host_on_redirect-3018637-1.patch
 
 ; Add GSB Public Profile
 projects[gsb_public][type] = profile
