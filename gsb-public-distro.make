@@ -7,7 +7,7 @@ api = 2
 core = 7.x
 
 projects[drupal][type] = core
-projects[drupal][version] = "7.65"
+projects[drupal][version] = "7.64"
 
 ; This fixes multiple upload fields in gsb_media_center. http://drupal.org/node/1620030
 projects[drupal][patch][1620030] = http://drupal.org/files/issues/1620030-d7-3.patch
