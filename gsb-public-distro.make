@@ -27,5 +27,4 @@ projects[drupal][patch][image] = https://raw.githubusercontent.com/gsb-public/gs
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = git@github.com:gsb-public/gsb_public.git
-projects[gsb_public][download][tag] = 6.59.1
->>>>>>> Added new branch for gsb_public and updating drupal to 7.67
+projects[gsb_public][download][tag] = 6.60
