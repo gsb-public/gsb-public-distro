@@ -27,4 +27,4 @@ projects[drupal][patch][image] = https://raw.githubusercontent.com/gsb-public/gs
 projects[gsb_public][type] = profile
 projects[gsb_public][download][type] = git
 projects[gsb_public][download][url] = git@github.com:gsb-public/gsb_public.git
-projects[gsb_public][download][tag] = 6.63
+projects[gsb_public][download][tag] = 6.63.7
